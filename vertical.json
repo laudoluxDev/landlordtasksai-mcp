@@ -1,0 +1,11 @@
+{
+  "product_id": "landlord",
+  "display_name": "LandlordTasksAI",
+  "tool_prefix": "landlordtasksai",
+  "api_base_url": "https://api.lawtasksai.com",
+  "website_url": "https://landlordtasksai.com",
+  "billing_url": "https://landlordtasksai.com/buy-credits.html",
+  "support_email": "support@landlordtasksai.com",
+  "privacy_summary": "LandlordTasksAI servers handle authentication, credits, catalog/search metadata, and licensed skill delivery. LandlordTasksAI does not process the user's task content. The user's chosen AI assistant or LLM performs the task work according to that provider's privacy terms.",
+  "first_prompt": "Check my LandlordTasksAI credit balance."
+}
